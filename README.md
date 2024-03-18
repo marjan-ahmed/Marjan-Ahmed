@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marjan Ahmed</h1>
 <h3 align="center">Currently Perusing the Skills & Art Of Artificial Intelligence | Metaverse | Web 3.0</h3>
 
-<img align="right" alt="coding" width="400" src="https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-908200362.jpg">
+<img align="right" alt="coding" width="600" src="https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-908200362.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
