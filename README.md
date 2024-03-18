@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm Marjan Ahmed</h1>
 <h3 align="center">Currently Perusing the Skills & Art Of Artificial Intelligence | Metaverse | Web 3.0</h3>
 
-<img align="right" alt="coding" width="600" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marjan-ahmed" alt="marjan-ahmed" /></a> </p>
+- 🔭 I’m currently working on **AI, Metaverse, Web 3.0**
 
-- 🌱 I’m currently learning **course, framework**
+- 🌱 I’m currently learning **Node.js with TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marjan-ahmed/typescript-45-tasks](https://github.com/marjan-ahmed/typescript-45-tasks)
+
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **marjanahmed.dev@gmail.com**
 
@@ -18,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/marjan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjan ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/marjan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marjan ahmed" height="30" width="40" /></a>
 </p>
 
