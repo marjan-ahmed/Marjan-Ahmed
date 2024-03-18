@@ -1,4 +1,4 @@
-![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring%20(1).jpg)
+![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech.jpg)
 <h1 align="center">Hi 👋, I'm Marjan Ahmed</h1>
 <h3 align="center">Currently Perusing the Skills & Art Of Artificial Intelligence | Metaverse | Web 3.0</h3>
 
