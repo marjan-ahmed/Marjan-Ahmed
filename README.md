@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI, Metaverse, Web 3.0**
 
-- 🌱 I’m currently learning **Node.js with TypeScript**
+- 🌱 I’m currently learning **Node.js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marjan-ahmed/typescript-45-tasks](https://github.com/marjan-ahmed/typescript-45-tasks)
 
