@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@m_marjanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m_marjanahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marjanahmed32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjanahmed32" height="30" width="40" /></a>
-<a href="https://fb.com/marjan ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marjan ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marjan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjanahmed32" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100058437895131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marjan ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/immarjanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immarjanahmed" height="30" width="40" /></a>
 </p>
 
