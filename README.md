@@ -1,6 +1,6 @@
 ![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Marjan Ahmed</h1>
-<h3 align="center">Currently Perusing the Skills & Art Of Artificial Intelligence | Metaverse | Web 3.0</h3>
+<h2 align="center">Currently Perusing the Art & Skils Of Artificial Intelligence | Metaverse | Web 3.0</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
