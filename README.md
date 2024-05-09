@@ -1,6 +1,6 @@
 ![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech%20(1).jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&color=004CAC&background=00FFB000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marjan+Ahmed;Currently+Perusing+the+Art+%26+Skils+Of%3A;Artificial+Intelligence+%7C+Metaverse+%7C+Web+3.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&color=004CAC&background=00FFB000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marjan+Ahmed;Currently+Pursuing+the+Art+%26+Skils+Of%3A;Artificial+Intelligence+%7C+Metaverse+%7C+Web+3.0)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
@@ -43,7 +43,7 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjan-ahmed&hide_progress=False&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjan-ahmed&progress=true&theme=dark#gh-dark-mode-only)
 
 ## My Github Stats
 
