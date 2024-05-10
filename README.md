@@ -23,18 +23,35 @@
 - 📫 How to reach me **marjanahmed.dev@gmail.com** OR **marjanahmed.dev@yahoo.com**
 
 - ⚡ Fun fact **I have a Coding Virus**
+##
 
-## <h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/@m_marjanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m_marjanahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marjan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjanahmed32" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100058437895131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marjan ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/immarjanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immarjanahmed" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/marjan-ahmed" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://x.com/@m_marjanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marjan ahmed" height="50" width="50" /></a>
+<a href="https://fb.com/ahm.marjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/immarjanahmed/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Marjan Ahmed" height="50" width="50" /></a>
 </p>
 
+## 
 
-## My Expertise
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=marjan-ahmed&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marjan-ahmed&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marjan-ahmed&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -42,13 +59,4 @@
     <img src="https://skillicons.dev/icons?i=wordpress,vscode,html,css,js,ts,nodejs,nextjs,react,tailwind,pycharm,py,powershell,postgres,npm,mysql.linux,git,github" />
   </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjan-ahmed&progress=true&theme=dark#gh-dark-mode-only)
-
-## My Github Stats
-
-![Marjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjan-ahmed&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marjan-ahmed&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=marjan-ahmed&show_icons=true&theme=tokyonight)](https://github.com/marjan-ahmed/github-profile-trophy)
-
 
