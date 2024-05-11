@@ -1,3 +1,4 @@
+
 ![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech%20(1).jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&color=004CAC&background=00FFB000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marjan+Ahmed;Currently+Pursuing+the+Art+%26+Skils+Of%3A;Artificial+Intelligence+%7C+Metaverse+%7C+Web+3.0)](https://git.io/typing-svg)
