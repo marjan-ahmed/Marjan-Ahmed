@@ -1,12 +1,5 @@
 ![image](https://github.com/marjan-ahmed/Marjan-Ahmed/assets/159646510/762ba30d-ab85-4dc2-b890-8d2cb1133ad2)
 
-
-<center>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=700&size=30&pause=400&color=1D1D1D&random=false&width=435&lines=Hi+there+%F0%9F%96%90%2C;I'+am+Marjan+Ahmed)](https://git.io/typing-svg)
-
-</center>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
 - Student of ETNS - Education Trust Nasra School (Malir, Karachi)
