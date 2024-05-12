@@ -1,5 +1,5 @@
+![image](https://github.com/marjan-ahmed/Marjan-Ahmed/assets/159646510/762ba30d-ab85-4dc2-b890-8d2cb1133ad2)
 
-![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech%20(1).jpg)
 
 <center>
   
