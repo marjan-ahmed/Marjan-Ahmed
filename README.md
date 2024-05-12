@@ -1,7 +1,11 @@
 
 ![logo](https://github.com/marjan-ahmed/Marjan-Ahmed/blob/main/Aspiring_tech%20(1).jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&size=25&pause=700&color=C59C00&background=00B4C500&random=false&width=435&lines=Hi+there+%F0%9F%96%90%2C+Marjan+Ahmed+here;A+Passionate+Developer+%26+Programmer)](https://git.io/typing-svg)
+<center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=700&size=30&pause=400&color=1D1D1D&random=false&width=435&lines=Hi+there+%F0%9F%96%90%2C;I'+am+Marjan+Ahmed)](https://git.io/typing-svg)
+
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
 
