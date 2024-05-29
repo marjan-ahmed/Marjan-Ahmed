@@ -47,7 +47,9 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marjan-ahmed&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
+<tr>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjan-ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </tr>
 </table>
 
