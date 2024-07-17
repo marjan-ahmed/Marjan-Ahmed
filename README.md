@@ -1,6 +1,6 @@
 ![image](https://github.com/marjan-ahmed/Marjan-Ahmed/assets/159646510/83d03675-e87e-47af-90f1-4d8bcbb6f751)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /></p>
 
 - Student of ETNS - Education Trust Nasra School (Malir, Karachi)
 - Student at GIAIC - Governor Initiative For AI and Computing (Saddar, Karachi)
