@@ -49,8 +49,6 @@
   
 </td>
 <tr>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjan-ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</tr>
 </table>
 
 <h3 align="center">Languages and Tools:</h3>
