@@ -31,6 +31,15 @@
 <a href="https://www.instagram.com/marjanahmed.io/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Marjan Ahmed" height="50" width="50" /></a>
 </p>
 
+##
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,vscode,html,css,js,ts,nodejs,nextjs,react,tailwind,pycharm,py,powershell,postgres,npm,mysql.linux,git,github" />
+  </a>
+</p>
+
 ## 
 
 <h3 align="center">My Statistics:</h3>
@@ -50,13 +59,6 @@
 </td>
 <tr>
 </table>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,vscode,html,css,js,ts,nodejs,nextjs,react,tailwind,pycharm,py,powershell,postgres,npm,mysql.linux,git,github" />
-  </a>
-</p>
 
 ---
 
