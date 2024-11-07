@@ -1,4 +1,6 @@
-![image](https://github.com/marjan-ahmed/Marjan-Ahmed/assets/159646510/83d03675-e87e-47af-90f1-4d8bcbb6f751)
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif" alt="image"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="marjan-ahmed" /></p>
 
