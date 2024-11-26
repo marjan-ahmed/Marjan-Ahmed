@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=marjan-ahmed&icon=4&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/marjan-ahmed/marjan-ahmed/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
