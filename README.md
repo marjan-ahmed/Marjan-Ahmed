@@ -49,6 +49,4 @@
   
   <br/><br/><br/>
 
-![snake gif]()
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
